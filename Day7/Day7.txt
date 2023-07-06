@@ -1,0 +1,4 @@
+1.create a sql CLR function that takes a departement manger hire date with specific id and returns neither was it leap year or not 
+2.create new database then make 3 types of backups for it 
+3.try make login and user for iti DB on Student table allow user to make select for St_id, St_Fname 
+  prevent user from Update St_Lname
